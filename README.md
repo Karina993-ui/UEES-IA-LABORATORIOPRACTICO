@@ -162,7 +162,7 @@ Cada notebook puede ejecutarse de forma independiente ya que incluye:
 
 **Nombre**: Mery Romero  
 **Email**: mery.romero@uees.edu.ec   
-**Asignatura**: Universidad Espíritu Santo (UEES)
+**Asignatura**: Universidad Espíritu Santo (UEES)      
 **Programa**: Maestría en Inteligencia de Negocios y Ciencia de Datos   
 **Curso**: Inteligencia Artificial
 
