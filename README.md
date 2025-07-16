@@ -2,8 +2,9 @@
 Laboratorio práctico de Inteligencia Artificial con Python: 4 notebooks explorando NumPy, Pandas, visualización de datos, Machine Learning y Deep Learning usando el dataset Titanic. Proyecto para UEES - Maestría en Inteligencia de Negocios y Ciencia de Datos.
 
 # Dataset Utilizado
-Dataset: Titanic Survival Dataset Fuente: Seaborn library datasets Descripción: Datos de pasajeros del RMS Titanic incluyendo información demográfica, clase de boleto, ubicación y estado de supervivencia.
-Características principales:
+**Dataset:** Titanic Survival Dataset Fuente: Seaborn library datasets 
+**Descripción:**  Datos de pasajeros del RMS Titanic incluyendo información demográfica, clase de boleto, ubicación y estado de supervivencia.
+**Características principales:**
 891 registros de pasajeros
 12 variables (demográficas, socioeconómicas, ubicación)
 Variable objetivo: supervivencia (binaria)
@@ -67,9 +68,9 @@ Cada notebook puede ejecutarse de forma independiente ya que incluye:
   
 # Resultados Principales
 # Rendimiento de Modelos
-- Random Forest: 82.68% de precisión (mejor modelo tradicional)
-- Red Neuronal: 80.45% de precisión
-- Regresión Logística: 79.89% de precisión
+- **Random Forest:** 82.68% de precisión (mejor modelo tradicional)
+- **Red Neuronal:** 80.45% de precisión
+- **Regresión Logística:** 79.89% de precisión
 
 # Variables Más Importantes
 1. Género del pasajero (sex)
@@ -86,28 +87,28 @@ Cada notebook puede ejecutarse de forma independiente ya que incluye:
 
 # Tecnologías Utilizadas
 # Manipulación de Datos
-- NumPy: Operaciones numéricas y manejo de arrays
-- Pandas: Análisis y manipulación de datos estructurados
+- **NumPy** Operaciones numéricas y manejo de arrays
+- **Pandas:** Análisis y manipulación de datos estructurados
 # Visualización
-- Matplotlib: Gráficos básicos y personalizados
-- Seaborn: Visualizaciones estadísticas avanzadas
-- Plotly: Gráficos interactivos y dashboards
+- **Matplotlib:** Gráficos básicos y personalizados
+- **Seaborn:** Visualizaciones estadísticas avanzadas
+- **Plotly:** Gráficos interactivos y dashboards
 # Machine Learning
-- Scikit-learn: Algoritmos de ML tradicionales y métricas
-- TensorFlow/Keras: Implementación de redes neuronales
-- StandardScaler: Normalización de datos
+- **Scikit-learn:** Algoritmos de ML tradicionales y métricas
+- **TensorFlow/Keras:** Implementación de redes neuronales
+- **StandardScaler:** Normalización de datos
 # Entorno de Desarrollo
-- Google Colab: Plataforma de notebooks en la nube
-- Jupyter: Entorno de desarrollo interactivo
-- Git/GitHub: Control de versiones y colaboración
+- **Google Colab:** Plataforma de notebooks en la nube
+- **Jupyter:** Entorno de desarrollo interactivo
+- **Git/GitHub:** Control de versiones y colaboración
 
 # Metodología
 # Enfoque de Desarrollo
-1. Análisis Exploratorio: Comprensión inicial del dataset
-2. Visualización: Identificación de patrones mediante gráficos
-3. Modelado Tradicional: Implementación de algoritmos clásicos
-4. Deep Learning: Desarrollo de modelo neuronal
-5. Comparación: Evaluación integral de enfoques
+1. **Análisis Exploratorio:** Comprensión inicial del dataset
+2. **Visualización:** Identificación de patrones mediante gráficos
+3. **Modelado Tradicional:** Implementación de algoritmos clásicos
+4. **Deep Learning:** Desarrollo de modelo neuronal
+5. **Comparación:** Evaluación integral de enfoques
 # Métricas de Evaluación
 - Precisión (Accuracy)
 - Matriz de Confusión
@@ -127,40 +128,44 @@ Cada notebook puede ejecutarse de forma independiente ya que incluye:
 - Ausencia de validación cruzada en algunos modelos
 - Preprocesamiento básico de datos faltantes
 # Autores
-- Nombre: Mery Romero
-Email: mery.romero@uees.edu.ec 
-Institución: Universidad Espíritu Santo (UEES)
-Programa: Maestría en Inteligencia de Negocios y Ciencia de Datos
-Curso: Inteligencia Artificial
-- Nombre: José Navarro
-Email: jose.navarro@uees.edu.ec 
-Institución: Universidad Espíritu Santo (UEES)
-Programa: Maestría en Inteligencia de Negocios y Ciencia de Datos
-Curso: Inteligencia Artificial
-+ Nombre: Jennifer Lainez
-Email: jenniffer.lainez@uees.edu.ec 
-Institución: Universidad Espíritu Santo (UEES)
-Programa: Maestría en Inteligencia de Negocios y Ciencia de Datos
-Curso: Inteligencia Artificial
-- Nombre: Karina Cali
-Email: karina.cali@uees.edu.ec 
-Institución: Universidad Espíritu Santo (UEES)
-Programa: Maestría en Inteligencia de Negocios y Ciencia de Datos
-Curso: Inteligencia Artificial
-- Nombre: Ruben Acebo
-Email: racebo@uees.edu.ec 
-Institución: Universidad Espíritu Santo (UEES)
-Programa: Maestría en Inteligencia de Negocios y Ciencia de Datos
-Curso: Inteligencia Artificial
+- **Nombre:** Mery Romero
+- **Email:** mery.romero@uees.edu.ec 
+- **Institución:** Universidad Espíritu Santo (UEES)
+- **Programa:** Maestría en Inteligencia de Negocios y Ciencia de Datos
+- **Curso:** Inteligencia Artificial
+  
+- **Nombre:** José Navarro
+**Email:** jose.navarro@uees.edu.ec 
+**Institución:** Universidad Espíritu Santo (UEES)
+**Programa:** Maestría en Inteligencia de Negocios y Ciencia de Datos
+**Curso:** Inteligencia Artificial
+  
+- **Nombre:** Jennifer Lainez
+- **Email:** jenniffer.lainez@uees.edu.ec 
+- **Institución:** Universidad Espíritu Santo (UEES)
+- **Programa:** Maestría en Inteligencia de Negocios y Ciencia de Datos
+- **Curso:**** Inteligencia Artificial
+
+- **Nombre:** Karina Cali
+- **Email:** karina.cali@uees.edu.ec 
+- **Institución:** Universidad Espíritu Santo (UEES)
+- **Programa:**** Maestría en Inteligencia de Negocios y Ciencia de Datos
+- **Curso:** Inteligencia Artificial
+
+- **Nombre:**** Ruben Acebo
+- **Email:** racebo@uees.edu.ec 
+- **Institución:** Universidad Espíritu Santo (UEES)
+- **Programa:** Maestría en Inteligencia de Negocios y Ciencia de Datos
+- **Curso:** Inteligencia Artificial
 
 # Información Académica
-Institución: Universidad Espíritu Santo (UEES)
-Facultad: Postgrado
-Programa: Maestría en Inteligencia de Negocios y Ciencia de Datos
-Asignatura: Inteligencia Artificial (MINCD 500)
-Profesor: PhD(c) Gladys Villegas Rugel
-Período: Julio 2025
-Modalidad: En línea
+**Institución:** Universidad Espíritu Santo (UEES)
+**Facultad:** Postgrado
+**Programa:** Maestría en Inteligencia de Negocios y Ciencia de Datos
+**Asignatura:** Inteligencia Artificial (MINCD 500)
+**Profesor:** PhD(c) Gladys Villegas Rugel
+**Período:** Julio 2025
+**Modalidad:** En línea
 
 # Licencia
 Este proyecto es desarrollado con fines académicos como parte del programa de maestría en la Universidad Espíritu Santo (UEES).
