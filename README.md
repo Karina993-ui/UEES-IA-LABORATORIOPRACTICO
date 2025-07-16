@@ -166,29 +166,29 @@ Cada notebook puede ejecutarse de forma independiente ya que incluye:
 **Programa**: Maestría en Inteligencia de Negocios y Ciencia de Datos   
 **Curso**: Inteligencia Artificial
 
-- **Nombre:** José Navarro
-**Email:** jose.navarro@uees.edu.ec
-**Institución:** Universidad Espíritu Santo (UEES)
-**Programa:** Maestría en Inteligencia de Negocios y Ciencia de Datos
-**Curso:** Inteligencia Artificial
-  
-- **Nombre:** Jennifer Lainez
-- **Email:** jenniffer.lainez@uees.edu.ec 
-- **Institución:** Universidad Espíritu Santo (UEES)
-- **Programa:** Maestría en Inteligencia de Negocios y Ciencia de Datos
-- **Curso:**** Inteligencia Artificial
+**Nombre**: José Navarro
+**Email**: jose.navarro@uees.edu.ec   
+**Asignatura**: Universidad Espíritu Santo (UEES)      
+**Programa**: Maestría en Inteligencia de Negocios y Ciencia de Datos   
+**Curso**: Inteligencia Artificial
 
-- **Nombre:** Karina Cali
-- **Email:** karina.cali@uees.edu.ec 
-- **Institución:** Universidad Espíritu Santo (UEES)
-- **Programa:**** Maestría en Inteligencia de Negocios y Ciencia de Datos
-- **Curso:** Inteligencia Artificial
+**Nombre**: Jennifer Lainez
+**Email**: jenniffer.lainez@uees.edu.ec 
+**Asignatura**: Universidad Espíritu Santo (UEES)      
+**Programa**: Maestría en Inteligencia de Negocios y Ciencia de Datos   
+**Curso**: Inteligencia Artificial
 
-- **Nombre:**** Ruben Acebo
-- **Email:** racebo@uees.edu.ec 
-- **Institución:** Universidad Espíritu Santo (UEES)
-- **Programa:** Maestría en Inteligencia de Negocios y Ciencia de Datos
-- **Curso:** Inteligencia Artificial
+**Nombre**: Karina Cali
+**Email**: karina.cali@uees.edu.ec 
+**Asignatura**: Universidad Espíritu Santo (UEES)      
+**Programa**: Maestría en Inteligencia de Negocios y Ciencia de Datos   
+**Curso**: Inteligencia Artificial
+
+**Nombre**: Ruben Acebo
+**Email**: racebo@uees.edu.ec 
+**Asignatura**: Universidad Espíritu Santo (UEES)      
+**Programa**: Maestría en Inteligencia de Negocios y Ciencia de Datos   
+**Curso**: Inteligencia Artificial
 
 ## Información Académica
 
