@@ -4,7 +4,9 @@ Laboratorio práctico de Inteligencia Artificial con Python: 4 notebooks explora
 ## Dataset Utilizado
 
 **Dataset**: Titanic Survival Dataset
+
 **Fuente**: Seaborn library datasets
+
 **Descripción**: Datos de pasajeros del RMS Titanic incluyendo información demográfica, clase de boleto, ubicación y estado de supervivencia.
 
 **Características principales**:
